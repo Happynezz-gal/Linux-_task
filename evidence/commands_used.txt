@@ -1,0 +1,120 @@
+    1  whoami
+    2  clear
+    3  history > commands_used.txt
+    4  clear
+    5  mksir mission
+    6  mkdir mission
+    7  sudo mkdir mission
+    8  cd mission
+    9  sudo cd mission
+   10  clear
+   11  cd ~
+   12  mkdir mission
+   13  cd mission
+   14  mkdir intel ops
+   15  cd ops
+   16  mkdir backup
+   17  tree ~
+   18  history > commands_used.txt
+   19  tree ~
+   20  mv ~/mission/ops/backup/commands_used.txt ~
+   21  tree ~
+   22  mv ~/mission/ops/commands_used.txt ~
+   23  tree ~
+   24  cd ~
+   25  tree ~ >tree_out
+   26  ls
+   27  tree ~
+   28  cd /home/agent007/mission/intel
+   29  ls
+   30  touch targets.txt routes.txt keys.txt
+   31  ls > listings1.txt
+   32  ls -l > listing2.txt
+   33  ls -la > listings3.txt
+   34  find ~ -type d -name backups
+   35  find ~ -type d -name backup
+   36  cp route.txt/home/agent007/mission/ops/backup\n
+   37  cp routes.txt/home/agent007/mission/ops/backup\n
+   38  cp routes.txt /home/agent007/mission/ops/backup
+   39  ls /home/agent007/mission/ops/backup\n
+   40  sudo reboot
+   41  cd ~
+   42  exit
+   43  ls
+   44  cd ~
+   45  ls
+   46  cd mission
+   47  ls
+   48  cd intel
+   49  ls
+   50  cd ..
+   51  cd ops
+   52  ls
+   53  ls -l
+   54  cd intel
+   55  ls
+   56  cd mission
+   57  cd ..
+   58  cd intel
+   59  ls
+   60  find ~ -type d -name backups
+   61  find ~ -type d -name backup
+   62  cp routes.txt /home/agent007/mission/ops/backup\n
+   63  ls backup
+   64  ls /home/agent007/mission/ops/backup\n
+   65  rm keys.txt
+   66  ls -l targets.txt
+   67  chmod 640 targets.txt
+   68  ls -l
+   69  cd ..
+   70  cd intel
+   71  ls -l targets.txt
+   72  rm /home/agent007/mission/ops/backup/routes.txt
+   73  cp routes.txt/home/agent007/mission/ops/backup
+   74  cp routes.txt /home/agent007/mission/ops/backup
+    1  whoami
+    2  clear
+    3  history > commands_used.txt
+    4  clear
+    5  mksir mission
+    6  mkdir mission
+    7  sudo mkdir mission
+    8  cd mission
+    9  sudo cd mission
+   10  clear
+   11  cd ~
+   12  mkdir mission
+   13  cd mission
+   14  mkdir intel ops
+   15  cd ops
+   16  mkdir backup
+   17  tree ~
+   18  history > commands_used.txt
+   19  tree ~
+   20  mv ~/mission/ops/backup/commands_used.txt ~
+   21  tree ~
+   22  mv ~/mission/ops/commands_used.txt ~
+   23  tree ~
+   24  cd ~
+   25  tree ~ >tree_out
+   26  ls
+   27  tree ~
+   28  cd /home/agent007/mission/intel
+   29  ls
+   30  touch targets.txt routes.txt keys.txt
+   31  ls > listings1.txt
+   32  ls -l > listing2.txt
+   33  ls -la > listings3.txt
+   34  find ~ -type d -name backups
+   35  find ~ -type d -name backup
+   36  cp route.txt/home/agent007/mission/ops/backup\n
+   37  cp routes.txt/home/agent007/mission/ops/backup\n
+   38  cp routes.txt /home/agent007/mission/ops/backup
+   39  ls /home/agent007/mission/ops/backup\n
+   40  sudo reboot
+   41  cd ~
+   42  exit
+   43  ls -l
+   44  nano targets.txt
+   45  history
+   46  ls

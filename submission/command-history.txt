@@ -1,0 +1,7 @@
+# PLACEHOLDER — replace this with your actual command history.
+#
+# After completing all phases as agent007, run:
+#   history > ~/command-history.txt
+# (or copy the contents of ~/.bash_history)
+#
+# Then paste that output into this file, replacing this placeholder text.

@@ -1,0 +1,84 @@
+    1  clear
+    2  pwd
+    3  cd student01
+    4  cd ~
+    5  pwd
+    6  mkdir project
+    7  ls
+    8  cd project
+    9  pwd
+   10  mkdir docs bin script 
+   11  ls 
+   12  cd docs
+   13  echo "This is the initial report by student01" > report.txt
+   14  ls
+   15  cat report.txt
+   16  ls -la
+   17  echo "Top secret" > .secret.txt
+   18  ls -a
+   19  nano report.txt
+   20  ls
+   21  cp report.txt /home/student01/project/scripts
+   22  ls /home/student01/project/scripts\n
+   23  cp report.txt /home/student01/project/scripts
+   24  ls
+   25  mv .secret.txt /home/student01/project/bin
+   26  ls .secret.txt /home/student01/project/bin\n
+   27  ls -a .secret.txt /home/student01/project/bin\n
+   28  mv .secret.txt /home/student01/project/bin
+   29  ls -a
+   30  ls /home/student01/project/scripts\n
+   31  mv .secret.txt /home/student01/project/bin
+   32  mv .secret.txt /home/student01/project/docs/bin
+   33  ls -a /home/student01/project/docs
+   34  echo "Top secret" > .secret.txt 
+   35  ls -a /home/student01/project/docs
+   36  mv .secret.txt /home/student01/project/bin
+   37  ls -a /home/student01/project/bin
+   38  cd /home/student01/project/bin 
+   39  ls -a /home/student01/project/bin
+   40  mv .secret.txt classified.txt
+   41  cat classified.txt
+   42  cd scripts
+   43  cd ..
+   44  cd scripts
+   45  cd script
+   46  nano install.sh 
+   47  ls -l
+   48  cp report.txt /home/student01/project/scripts
+   49  cp report.txt /home/student01/projects/script
+   50  mv report.txt /home/student01/projects/script\n
+   51  mv report.txt /home/student01/projects/doc/script\n
+   52  chmod +x install.sh
+   53  ls -l
+   54  ./install.sh
+   55  cd ..
+   56  ls
+   57  cd bin
+   58  ls -l
+   59  chmod 660 classified.txt
+   60  ls -l
+   61  cd ..
+   62  cd docs
+   63  ls
+   64  touch admin_notes.txt
+   65  ls
+   66  ls -l
+   67  chmod 600 admin_notes.txt
+   68  ls -l
+   69  ls 
+   70  rm admin_notes.txt
+   71  cd ..
+   72  mkdir backup
+   73  cd docs
+   74  ls
+   75  cp report.txt /home/student01/projects/backup
+   76  cp report.txt /home/student01/project/backup
+   77  cd ..
+   78  cd script
+   79  ls
+   80  cp install.sh /home/student01/project/backup \n
+   81  cd ~
+   82  tree project
+   83  tree project > tree_project
+   84  history

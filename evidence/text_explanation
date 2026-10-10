@@ -1,0 +1,4 @@
+`chmod` is used to change the permissions of files and directories in Linux.
+`ls -l` displays detailed information about files and directories, including their permissions, owner, and size.
+`useradd` is used to create a new user account on a Linux system.
+These commands are useful for managing file access, viewing permissions, and controlling user accounts.

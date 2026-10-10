@@ -1,0 +1,6 @@
+# PLACEHOLDER — replace this with your actual final directory listing.
+#
+# After completing all phases, run:
+#   ls -laR /home/agent007/mission/
+#
+# Then paste that output into this file, replacing this placeholder text.

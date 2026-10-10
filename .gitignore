@@ -1,0 +1,20 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+.vscode/
+.idea/
+
+# Local lab artifacts that shouldn't be committed with real credentials
+*.pem
+*password*
+*credentials*
+
+# Keep placeholder directories but ignore their generated contents if regenerated locally
+evidence/screenshots/*
+!evidence/screenshots/.gitkeep
+evidence/terminal-output/*
+!evidence/terminal-output/.gitkeep
